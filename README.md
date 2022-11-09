@@ -1,9 +1,9 @@
-### <h1 align="center">Hi 👋, I'am Rohan Mondal</h1>
+### <h1 align="center">Hi 👋, I'm Rohan Mondal</h1>
 <h3 align="center">A tech-enthusiast with interest in Web Development.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipanxd&label=Profile%20views&color=0e75b6&style=flat" alt="sandipanxd" /> </p>
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Javascript
+- 🔭 I’m currently working on **Web Development**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about Web
 - 📫 Reach me at rohanmondalk@gmail.com
@@ -27,7 +27,6 @@ Connect with me:
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Languages and Tools:
- c cplusplus css3  gcp html5 java  python javascipt
+
 
 -->
