@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Javascript
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about Web
 - 📫 Reach me at rohanmondalk@gmail.com
  <h3 align="left">Connect with me:</h3>
@@ -23,6 +23,7 @@
 
 Here are some ideas to get you started:
 Connect with me:
+- 🤔 I’m looking for help with ...
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
